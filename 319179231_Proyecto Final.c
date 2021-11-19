@@ -9,10 +9,10 @@ int zeller(int ano, int mes, int dia);
 
 int main(){
 
-	printf("Ano : "); // Año en formato AAAA
+	printf("Ano : "); // AÃ±o en formato AAAA
 	int a;
 	scanf("%i",&a);
-	printf("Mes : "); // Mes en formato númerico (1-12)
+	printf("Mes : "); // Mes en formato nÃºmerico (1-12)
 	int b;
 	scanf("%i",&b);
 	char *m[]  =  {"Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiempre", "Octubre","Noviembre", "Diciembre"};
